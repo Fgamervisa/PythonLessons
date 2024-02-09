@@ -1,0 +1,21 @@
+1. Random()
+
+    è una libreria che ci permette di generare numeri casuali
+
+Nuove librerie:
+
+1. Math
+
+    La libreria math in Python fornisce funzioni matematiche predefinite per eseguire operazioni complesse su numeri.
+
+1. itertools()
+
+    La libreria itertools in Python fornisce strumenti per creare, combinare e manipolare iterabili in modo efficiente, permettendo di generare combinazioni, permutazioni, e altri tipi di iterabili.
+
+1. pytz
+    una libreria con tutti i fisi orari
+
+
+1. Pandas
+
+    libreria che permette di creare un dataframe

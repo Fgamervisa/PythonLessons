@@ -1,0 +1,60 @@
+1. print()
+
+    stampa l'argomento (il codice fra parentesi)
+
+2. input()
+
+    chiede un input all'utente, mostrando a schermo l'argomento
+    
+1. for
+
+    usato per iterare, **deve** essere seguito da una variabile ed a un in
+
+2. range
+
+    Il comando "range" in Python è usato per generare una sequenza di numeri, partendo da un numero di inizio fino a un numero precedente a quello finale specificato, con incrementi fissi, se necessario.
+
+
+nuovi comandi usati:
+
+1. int()
+
+    trasforma la variabile in numero intero(se possibile, altrimenti resstituisce errore)
+
+
+1. if
+
+    verifica se la condizione che viene posta dopo è corretta, se lo è esegue il codice
+
+2. else
+
+    "altrimenti" il codice da eseguire qual'ora la condizione non fosse vera
+
+1. <nomeLibreria>.\*
+    
+    quando si importa una libreria, le funzione in essa possono essere utilizzate semplicemente scrivendo il nome della libreria, mettere un punto e il nome della funzione
+
+2. random.randint()
+    
+    sceglie un integer casuale nel range immesso
+
+1. datetime.datetime():
+
+    serve per rappresentare date e orari in modo combinato.
+
+1. Math.pi()
+
+    ritorna come valore il pi greco
+
+
+1. .join()
+
+    utilizzato nelle liste per unirne due o più
+
+2. permutations()
+
+    Python genera tutte le possibili permutazioni degli elementi di un iterabile. Ad esempio, se hai una lista [1, 2, 3], permutations genererà tutte le possibili combinazioni di lunghezza 1, 2 e 3 degli elementi [1, 2, 3].
+
+1. random.choice
+
+    seleziona fra le opzioni date quelle più possibili
